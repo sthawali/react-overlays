@@ -38,9 +38,6 @@
     "minor": "release minor",
     "major": "release major"
   },
-  "peerDependencies": {
-    "react": ">=0.13.0"
-  },
   "devDependencies": {
     "babel": "5.6.14",
     "babel-core": "5.6.15",
@@ -92,6 +89,7 @@
   "dependencies": {
     "classnames": "^2.1.3",
     "dom-helpers": "^2.3.0",
+    "react": "^0.13.3",
     "react-prop-types": "^0.2.1",
     "warning": "^2.0.0"
   }
